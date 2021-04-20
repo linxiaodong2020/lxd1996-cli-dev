@@ -1,0 +1,5 @@
+.idea
+.vscode
+packages/**/node_modules
+packages/**/pageage-lock.json
+node_modules
